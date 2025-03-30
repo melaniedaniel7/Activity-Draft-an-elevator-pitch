@@ -50,3 +50,8 @@ You might find this information in the job description itself.
 Then, record 2-3 sentences (40-60 words) describing your findings in the Company Description section of the template. 
 Note anything about the company that you find particularly interesting.
 
+### Job description section:
+- At least 1 note on your job search criteria
+- A target role 
+- At least 2-3 relevant experiences and skills
+- A description of the company and its mission
