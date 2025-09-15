@@ -3,7 +3,7 @@
 Disclaimer:
 
 ## Final Draft
-My name is Melanie Daniel, and I’m currently studying a B.Sc. in Cybersecurity. Outside of academics, I enjoy reading, running, and horse riding—which keeps me disciplined, curious, and focused. My work experience spans roles as a waitress, event promoter, digital marketing intern, house sitter, and babysitter. Through these, I’ve developed strong soft skills; such as active listening, empathy, communication, and brand management; that set me apart in cybersecurity.
+My name is Melanie Daniel, and I’m currently studying a B.Sc. in Cybersecurity. Outside of academics, I enjoy reading, running, and horse riding; which keeps me disciplined, curious, and focused. My work experience spans roles as a waitress, event promoter, digital marketing intern, house sitter, and babysitter. Through these, I’ve developed strong soft skills; such as active listening, empathy, communication, and brand management; that set me apart in cybersecurity.
 
 What excites me most about the field is solving complex problems, protecting people and data, and exploring the psychology of social engineering—understanding both the attacker’s mindset and the victim’s behavior. As an aspiring SOC analyst, I believe my attention to detail, analytical problem-solving, and strong people skills will allow me to collaborate effectively, communicate clearly with different audiences, and build trust with clients and colleagues.
 
